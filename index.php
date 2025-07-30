@@ -73,9 +73,6 @@
             <div class="skill-card bg-white shadow-md rounded-xl p-4 text-center  cursor-pointer transition-all">
                 <p class="text-lg font-semibold text-gray-700">Tailwind CSS</p>
             </div>
-            <div class="skill-card bg-white shadow-md rounded-xl p-4 text-center  cursor-pointer transition-all">
-                <p class="text-lg font-semibold text-gray-700">JavaScript</p>
-            </div>
             <!-- <div class="skill-card bg-white shadow-md rounded-xl p-4 text-center  cursor-pointer transition-all">
                 <p class="text-lg font-semibold text-gray-700">React</p>
             </div>
