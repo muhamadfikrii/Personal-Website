@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=   , initial-scale=1.0">
     <title>Document</title>
-     <link href="./src/output.css" rel="stylesheet">
+     <link href="./dist/output.css" rel="stylesheet">
      <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
      <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/TextPlugin.min.js"></script>
@@ -121,7 +121,7 @@
 
   gsap.to(".judul", {
     duration: 3,
-    text: "Halo, saya Muhamad Fikri Ardiansyah 👋",
+    text: "Halo, Saya Muhamad Fikri Ardiansyah 👋",
     ease: "none"
   });
 </script>
