@@ -8,6 +8,7 @@
     "tailwindcss": "^4.1.11"
   },
   "scripts": {
-  "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
-}
+  "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify"
+
+  }
 }
